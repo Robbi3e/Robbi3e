@@ -9,7 +9,7 @@
 ## 💻 What I’m Into
 
 - Building **apps**
-- Learning **AI**
+- Learning **new skills**
 - Web development & **networking**
 
 ---
