@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Robbie! 👋
 
-<!--
-**Robbi3e/Robbi3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Grade 12 student interested in computer science and technology. I enjoy building apps, learning AI, web development, and networking.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript, Python
+
+## Projects
+
+- **To-Do Experience** — a task tracker app I'm building to improve productivity.
+
+## About Me
+
+I like sports and video games, but right now I’m focused on my tech projects and learning.
+
+---
+
+Thanks for visiting my GitHub!
