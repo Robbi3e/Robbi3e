@@ -2,7 +2,7 @@
 
 ---
 
-🎓 **Grade 12 Student | Computer Science Enthusiast**
+🎓 **Highschool Graduate | Computer Science Enthusiast**
 
 ---
 
